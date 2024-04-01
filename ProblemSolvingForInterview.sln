@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyramid", "..\Pyramid\Pyram
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Average of Lowest 3 number (excluding zero)", "..\Average of Lowest 3 number (excluding zero)\Average of Lowest 3 number (excluding zero).csproj", "{74520316-937E-4782-8215-B29177D473F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble sort", "..\Bubble sort\Bubble sort.csproj", "{A759F514-7816-4FEC-AF9F-50A2CD30527A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bubble sort", "..\Bubble sort\Bubble sort.csproj", "{A759F514-7816-4FEC-AF9F-50A2CD30527A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Sort", "..\Merge Sort\Merge Sort.csproj", "{1F2ED97A-EDE5-4B57-B254-FF7F49EB50DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{A759F514-7816-4FEC-AF9F-50A2CD30527A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A759F514-7816-4FEC-AF9F-50A2CD30527A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A759F514-7816-4FEC-AF9F-50A2CD30527A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F2ED97A-EDE5-4B57-B254-FF7F49EB50DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2ED97A-EDE5-4B57-B254-FF7F49EB50DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2ED97A-EDE5-4B57-B254-FF7F49EB50DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2ED97A-EDE5-4B57-B254-FF7F49EB50DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
